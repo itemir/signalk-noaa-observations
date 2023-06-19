@@ -1,0 +1,29 @@
+{
+  "name": "signalk-noaa-observations",
+  "version": "0.0.1",
+  "description": "NOAA Observations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "signalk-node-server-plugin",
+    "signalk-webapp"
+  ],
+  "signalk": {
+    "displayName": "NOAA Observations"
+  },
+  "author": "Ilker Temir",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itemir/signalk-noaa-observations.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itemir/signalk-noaa-observationss/issues"
+  },
+  "homepage": "https://github.com/itemir/signalk-nooa-observations#readme"
+}
