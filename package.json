@@ -1,6 +1,6 @@
 {
   "name": "signalk-noaa-observations",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "NOAA Observations",
   "main": "index.js",
   "scripts": {

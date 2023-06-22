@@ -141,7 +141,7 @@ module.exports = function(app) {
 	      value: pressure
 	    }
 	]
-	app.handleMessage('signalk-noaa-observations', {
+	app.handleMessage(plugin.id, {
             updates: [
               {
                 values: values
